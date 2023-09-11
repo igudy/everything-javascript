@@ -1,8 +1,12 @@
-// Create a person object that contains three keys: name, age, and county.
-// Use yourself as an example to set the values for name, age, and country
+const person = {
+  name: "Goodness",
+  age: 12,
+  county: "St. saviour",
+};
 
-// Create a function, logData(), that uses the person object to create a
-// string in the following format: 
-// "Per is 35 years old and lives in Norway"
+function logData() {
+  const sentence =
+    person.name + " is " + age + " years old and lives in " + person.county;
+}
 
-// Call the logData() function to verify that it works
+logData();

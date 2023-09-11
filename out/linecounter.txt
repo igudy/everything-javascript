@@ -1,0 +1,503 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2023-09-10 19:57:00
+count workspace : c:\Users\user\Documents\ReactNode\everything-javascript
+total files : 481
+total code lines : 6029
+total comment lines : 470
+total blank lines : 911
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |           .css|           2276|             45|            372|     38|
+   |          .html|           1561|             14|              2|     26|
+   |          .json|            166|              0|              2|    2.8|
+   |            .md|              3|              1|              2|  0.050|
+   |            .js|           2022|            410|            533|     34|
+   |               |              1|              0|              0|  0.017|
+   -------------------------------------------------------------------------
+.gitignore, code is 1, comment is 0, blank is 0.
+1. Build a Passenger Counter App\01. Welcome to the course\index.css, code is 4, comment is 0, blank is 0.
+1. Build a Passenger Counter App\01. Welcome to the course\index.html, code is 9, comment is 0, blank is 0.
+1. Build a Passenger Counter App\01. Welcome to the course\index.js, code is 0, comment is 1, blank is 0.
+1. Build a Passenger Counter App\02. Let's build a passenger counter app\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\02. Let's build a passenger counter app\index.html, code is 15, comment is 0, blank is 0.
+1. Build a Passenger Counter App\02. Let's build a passenger counter app\index.js, code is 14, comment is 0, blank is 3.
+1. Build a Passenger Counter App\02. Let's build a passenger counter app\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\03. Setting up our JavaScript file\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\03. Setting up our JavaScript file\index.html, code is 9, comment is 0, blank is 0.
+1. Build a Passenger Counter App\03. Setting up our JavaScript file\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\04. Write your first JavaScript variable\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\04. Write your first JavaScript variable\index.html, code is 10, comment is 0, blank is 0.
+1. Build a Passenger Counter App\04. Write your first JavaScript variable\index.js, code is 2, comment is 3, blank is 5.
+1. Build a Passenger Counter App\04. Write your first JavaScript variable\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\05. Basic mathematical operations\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\05. Basic mathematical operations\index.html, code is 10, comment is 0, blank is 0.
+1. Build a Passenger Counter App\05. Basic mathematical operations\index.js, code is 0, comment is 9, blank is 4.
+1. Build a Passenger Counter App\05. Basic mathematical operations\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\06. Reassigning and incrementing\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\06. Reassigning and incrementing\index.html, code is 10, comment is 0, blank is 0.
+1. Build a Passenger Counter App\06. Reassigning and incrementing\index.js, code is 2, comment is 3, blank is 5.
+1. Build a Passenger Counter App\06. Reassigning and incrementing\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\07. Adding a button\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\07. Adding a button\index.html, code is 10, comment is 1, blank is 0.
+1. Build a Passenger Counter App\07. Adding a button\index.js, code is 8, comment is 7, blank is 10.
+1. Build a Passenger Counter App\07. Adding a button\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\08. The onclick event listener\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\08. The onclick event listener\index.html, code is 11, comment is 0, blank is 0.
+1. Build a Passenger Counter App\08. The onclick event listener\index.js, code is 0, comment is 8, blank is 6.
+1. Build a Passenger Counter App\08. The onclick event listener\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\09. Using functions to write less code\index.html, code is 7, comment is 0, blank is 0.
+1. Build a Passenger Counter App\09. Using functions to write less code\index.js, code is 10, comment is 5, blank is 4.
+1. Build a Passenger Counter App\10. Write your first function\index.html, code is 7, comment is 0, blank is 0.
+1. Build a Passenger Counter App\10. Write your first function\index.js, code is 0, comment is 2, blank is 1.
+1. Build a Passenger Counter App\11. Write a function that logs the sum\index.html, code is 7, comment is 0, blank is 0.
+1. Build a Passenger Counter App\11. Write a function that logs the sum\index.js, code is 3, comment is 1, blank is 2.
+1. Build a Passenger Counter App\12. Write a function that increments\index.html, code is 7, comment is 0, blank is 0.
+1. Build a Passenger Counter App\12. Write a function that increments\index.js, code is 2, comment is 2, blank is 5.
+1. Build a Passenger Counter App\13. Increment on clicks\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\13. Increment on clicks\index.html, code is 11, comment is 0, blank is 0.
+1. Build a Passenger Counter App\13. Increment on clicks\index.js, code is 0, comment is 8, blank is 6.
+1. Build a Passenger Counter App\13. Increment on clicks\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\14. Display the count\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\14. Display the count\index.html, code is 11, comment is 0, blank is 0.
+1. Build a Passenger Counter App\14. Display the count\index.js, code is 5, comment is 2, blank is 5.
+1. Build a Passenger Counter App\14. Display the count\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\15. The Document Object Model\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\15. The Document Object Model\index.html, code is 11, comment is 0, blank is 0.
+1. Build a Passenger Counter App\15. The Document Object Model\index.js, code is 6, comment is 0, blank is 3.
+1. Build a Passenger Counter App\15. The Document Object Model\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\16. Display the count with innerText\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\16. Display the count with innerText\index.html, code is 11, comment is 0, blank is 0.
+1. Build a Passenger Counter App\16. Display the count with innerText\index.js, code is 4, comment is 2, blank is 3.
+1. Build a Passenger Counter App\16. Display the count with innerText\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\17. Create the save button\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\17. Create the save button\index.html, code is 11, comment is 2, blank is 0.
+1. Build a Passenger Counter App\17. Create the save button\index.js, code is 6, comment is 1, blank is 4.
+1. Build a Passenger Counter App\17. Create the save button\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\18. What is a string_\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\18. What is a string_\index.html, code is 12, comment is 0, blank is 0.
+1. Build a Passenger Counter App\18. What is a string_\index.js, code is 9, comment is 0, blank is 4.
+1. Build a Passenger Counter App\18. What is a string_\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\19. Write your first string variable\index.html, code is 7, comment is 0, blank is 0.
+1. Build a Passenger Counter App\19. Write your first string variable\index.js, code is 1, comment is 0, blank is 0.
+1. Build a Passenger Counter App\20. Log a greeting to the console\index.html, code is 7, comment is 0, blank is 0.
+1. Build a Passenger Counter App\20. Log a greeting to the console\index.js, code is 0, comment is 4, blank is 3.
+1. Build a Passenger Counter App\21. Strings vs. Numbers\index.html, code is 7, comment is 0, blank is 0.
+1. Build a Passenger Counter App\21. Strings vs. Numbers\index.js, code is 7, comment is 4, blank is 3.
+1. Build a Passenger Counter App\22. Render a welcome message\index.html, code is 8, comment is 0, blank is 0.
+1. Build a Passenger Counter App\22. Render a welcome message\index.js, code is 5, comment is 4, blank is 6.
+1. Build a Passenger Counter App\23. Improve the message with string concatenation\index.html, code is 8, comment is 0, blank is 0.
+1. Build a Passenger Counter App\23. Improve the message with string concatenation\index.js, code is 4, comment is 3, blank is 4.
+1. Build a Passenger Counter App\24. Use plus equal for count\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\24. Use plus equal for count\index.html, code is 12, comment is 0, blank is 0.
+1. Build a Passenger Counter App\24. Use plus equal for count\index.js, code is 9, comment is 1, blank is 2.
+1. Build a Passenger Counter App\24. Use plus equal for count\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\25. Create the save feature\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\25. Create the save feature\index.html, code is 12, comment is 0, blank is 0.
+1. Build a Passenger Counter App\25. Create the save feature\index.js, code is 12, comment is 4, blank is 2.
+1. Build a Passenger Counter App\25. Create the save feature\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\26. Debugging online\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\26. Debugging online\index.html, code is 13, comment is 0, blank is 0.
+1. Build a Passenger Counter App\26. Debugging online\index.js, code is 11, comment is 2, blank is 3.
+1. Build a Passenger Counter App\26. Debugging online\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\27. Set the count to 0\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\27. Set the count to 0\index.html, code is 13, comment is 0, blank is 0.
+1. Build a Passenger Counter App\27. Set the count to 0\index.js, code is 13, comment is 0, blank is 2.
+1. Build a Passenger Counter App\27. Set the count to 0\station.jpg, it is a binary file.
+1. Build a Passenger Counter App\28. Congrats & recap\index.css, code is 32, comment is 0, blank is 6.
+1. Build a Passenger Counter App\28. Congrats & recap\index.html, code is 14, comment is 0, blank is 2.
+1. Build a Passenger Counter App\28. Congrats & recap\index.js, code is 14, comment is 0, blank is 3.
+1. Build a Passenger Counter App\28. Congrats & recap\station.jpg, it is a binary file.
+2. Practice time - part 1\01. Variables practice\index.html, code is 7, comment is 0, blank is 0.
+2. Practice time - part 1\01. Variables practice\index.js, code is 0, comment is 3, blank is 4.
+2. Practice time - part 1\02. Concatenate two strings in a function\index.html, code is 7, comment is 0, blank is 0.
+2. Practice time - part 1\02. Concatenate two strings in a function\index.js, code is 2, comment is 1, blank is 2.
+2. Practice time - part 1\03. Incrementing and decrementing\index.html, code is 7, comment is 0, blank is 0.
+2. Practice time - part 1\03. Incrementing and decrementing\index.js, code is 13, comment is 3, blank is 4.
+2. Practice time - part 1\04. Strings and numbers\index.html, code is 7, comment is 0, blank is 0.
+2. Practice time - part 1\04. Strings and numbers\index.js, code is 6, comment is 7, blank is 0.
+2. Practice time - part 1\05. Rendering an error message\images\shoe.jpeg, it is a binary file.
+2. Practice time - part 1\05. Rendering an error message\index.css, code is 27, comment is 0, blank is 2.
+2. Practice time - part 1\05. Rendering an error message\index.html, code is 16, comment is 0, blank is 0.
+2. Practice time - part 1\05. Rendering an error message\index.js, code is 5, comment is 3, blank is 2.
+2. Practice time - part 1\06. Calculator challenge\index.css, code is 19, comment is 0, blank is 2.
+2. Practice time - part 1\06. Calculator challenge\index.html, code is 17, comment is 0, blank is 0.
+2. Practice time - part 1\06. Calculator challenge\index.js, code is 4, comment is 6, blank is 4.
+3. Build a Blackjack game\01. Let's build a Blackjack game!\index.html, code is 6, comment is 0, blank is 0.
+3. Build a Blackjack game\02. Add the firstCard, secondCard, and sum\index.html, code is 6, comment is 0, blank is 0.
+3. Build a Blackjack game\02. Add the firstCard, secondCard, and sum\index.js, code is 0, comment is 3, blank is 1.
+3. Build a Blackjack game\03. If...else conditionals\index.html, code is 6, comment is 0, blank is 0.
+3. Build a Blackjack game\03. If...else conditionals\index.js, code is 3, comment is 0, blank is 1.
+3. Build a Blackjack game\04. Your first if...else statement\index.html, code is 6, comment is 0, blank is 0.
+3. Build a Blackjack game\04. Your first if...else statement\index.js, code is 1, comment is 4, blank is 3.
+3. Build a Blackjack game\05. if_else...if_else statement\index.html, code is 6, comment is 0, blank is 0.
+3. Build a Blackjack game\05. if_else...if_else statement\index.js, code is 1, comment is 4, blank is 2.
+3. Build a Blackjack game\06. The if...else statement for our game\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\06. The if...else statement for our game\index.js, code is 10, comment is 5, blank is 2.
+3. Build a Blackjack game\07. Add the hasBlackJack variable\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\07. Add the hasBlackJack variable\index.js, code is 10, comment is 1, blank is 2.
+3. Build a Blackjack game\08. Add the isAlive variable\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\08. Add the isAlive variable\index.js, code is 12, comment is 3, blank is 2.
+3. Build a Blackjack game\09. Let's practice boolean conditions\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\09. Let's practice boolean conditions\index.js, code is 7, comment is 22, blank is 3.
+3. Build a Blackjack game\10. Add the message variable\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\10. Add the message variable\index.js, code is 14, comment is 3, blank is 2.
+3. Build a Blackjack game\11. Link to stylesheet\index.css, code is 3, comment is 0, blank is 0.
+3. Build a Blackjack game\11. Link to stylesheet\index.html, code is 8, comment is 2, blank is 0.
+3. Build a Blackjack game\11. Link to stylesheet\index.js, code is 16, comment is 0, blank is 2.
+3. Build a Blackjack game\12. Add basic styling\images\table.png, it is a binary file.
+3. Build a Blackjack game\12. Add basic styling\index.css, code is 7, comment is 1, blank is 5.
+3. Build a Blackjack game\12. Add basic styling\index.html, code is 12, comment is 0, blank is 0.
+3. Build a Blackjack game\12. Add basic styling\index.js, code is 16, comment is 0, blank is 2.
+3. Build a Blackjack game\13. Make the start button work\images\table.png, it is a binary file.
+3. Build a Blackjack game\13. Make the start button work\index.css, code is 24, comment is 6, blank is 4.
+3. Build a Blackjack game\13. Make the start button work\index.html, code is 17, comment is 2, blank is 0.
+3. Build a Blackjack game\13. Make the start button work\index.js, code is 18, comment is 2, blank is 1.
+3. Build a Blackjack game\14. Display the message\images\table.png, it is a binary file.
+3. Build a Blackjack game\14. Display the message\index.css, code is 24, comment is 0, blank is 4.
+3. Build a Blackjack game\14. Display the message\index.html, code is 13, comment is 0, blank is 0.
+3. Build a Blackjack game\14. Display the message\index.js, code is 19, comment is 2, blank is 2.
+3. Build a Blackjack game\15. Display the sum\images\table.png, it is a binary file.
+3. Build a Blackjack game\15. Display the sum\index.css, code is 24, comment is 0, blank is 3.
+3. Build a Blackjack game\15. Display the sum\index.html, code is 13, comment is 1, blank is 0.
+3. Build a Blackjack game\15. Display the sum\index.js, code is 19, comment is 2, blank is 1.
+3. Build a Blackjack game\16. Display the cards\images\table.png, it is a binary file.
+3. Build a Blackjack game\16. Display the cards\index.css, code is 24, comment is 0, blank is 3.
+3. Build a Blackjack game\16. Display the cards\index.html, code is 17, comment is 1, blank is 0.
+3. Build a Blackjack game\16. Display the cards\index.js, code is 23, comment is 2, blank is 1.
+3. Build a Blackjack game\17. New card button\images\table.png, it is a binary file.
+3. Build a Blackjack game\17. New card button\index.css, code is 24, comment is 2, blank is 3.
+3. Build a Blackjack game\17. New card button\index.html, code is 13, comment is 1, blank is 0.
+3. Build a Blackjack game\17. New card button\index.js, code is 23, comment is 1, blank is 2.
+3. Build a Blackjack game\18. Add to the sum when newCard is clicked\images\table.png, it is a binary file.
+3. Build a Blackjack game\18. Add to the sum when newCard is clicked\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\18. Add to the sum when newCard is clicked\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\18. Add to the sum when newCard is clicked\index.js, code is 26, comment is 3, blank is 5.
+3. Build a Blackjack game\19. Rename the startGame function\images\table.png, it is a binary file.
+3. Build a Blackjack game\19. Rename the startGame function\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\19. Rename the startGame function\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\19. Rename the startGame function\index.js, code is 28, comment is 0, blank is 3.
+3. Build a Blackjack game\20. Solving our cards problem with an array\images\table.png, it is a binary file.
+3. Build a Blackjack game\20. Solving our cards problem with an array\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\20. Solving our cards problem with an array\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\20. Solving our cards problem with an array\index.js, code is 31, comment is 2, blank is 4.
+3. Build a Blackjack game\21. Intro to arrays\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\21. Intro to arrays\index.js, code is 4, comment is 3, blank is 4.
+3. Build a Blackjack game\22. Array indexes\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\22. Array indexes\index.js, code is 5, comment is 5, blank is 5.
+3. Build a Blackjack game\23. Arrays with multiple data types\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\23. Arrays with multiple data types\index.js, code is 0, comment is 3, blank is 1.
+3. Build a Blackjack game\24. Adding and removing items from arrays\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\24. Adding and removing items from arrays\index.js, code is 7, comment is 2, blank is 7.
+3. Build a Blackjack game\25. Creating the cards array\images\table.png, it is a binary file.
+3. Build a Blackjack game\25. Creating the cards array\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\25. Creating the cards array\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\25. Creating the cards array\index.js, code is 31, comment is 2, blank is 4.
+3. Build a Blackjack game\26. Push a new card to the array\images\table.png, it is a binary file.
+3. Build a Blackjack game\26. Push a new card to the array\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\26. Push a new card to the array\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\26. Push a new card to the array\index.js, code is 32, comment is 1, blank is 4.
+3. Build a Blackjack game\27. Counting in JavaScript\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\27. Counting in JavaScript\index.js, code is 3, comment is 6, blank is 5.
+3. Build a Blackjack game\28. Write your first loop\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\28. Write your first loop\index.js, code is 0, comment is 2, blank is 2.
+3. Build a Blackjack game\29. For loops and arrays\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\29. For loops and arrays\index.js, code is 6, comment is 5, blank is 5.
+3. Build a Blackjack game\30. Write you first array-based for loop\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\30. Write you first array-based for loop\index.js, code is 1, comment is 2, blank is 3.
+3. Build a Blackjack game\31. For loops, arrays, and DOM\index.html, code is 8, comment is 0, blank is 0.
+3. Build a Blackjack game\31. For loops, arrays, and DOM\index.js, code is 5, comment is 1, blank is 2.
+3. Build a Blackjack game\32. Use a loop to render cards\images\table.png, it is a binary file.
+3. Build a Blackjack game\32. Use a loop to render cards\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\32. Use a loop to render cards\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\32. Use a loop to render cards\index.js, code is 37, comment is 2, blank is 4.
+3. Build a Blackjack game\33. How can we avoid to hard-code card values_\images\table.png, it is a binary file.
+3. Build a Blackjack game\33. How can we avoid to hard-code card values_\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\33. How can we avoid to hard-code card values_\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\33. How can we avoid to hard-code card values_\index.js, code is 37, comment is 1, blank is 7.
+3. Build a Blackjack game\34. Returning values in functions\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\34. Returning values in functions\index.js, code is 11, comment is 6, blank is 6.
+3. Build a Blackjack game\35. Use a function to set the card values\images\table.png, it is a binary file.
+3. Build a Blackjack game\35. Use a function to set the card values\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\35. Use a function to set the card values\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\35. Use a function to set the card values\index.js, code is 40, comment is 3, blank is 7.
+3. Build a Blackjack game\36. Generating random numbers with Math.random()\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\36. Generating random numbers with Math.random()\index.js, code is 2, comment is 7, blank is 3.
+3. Build a Blackjack game\37. Math.random() _ 6\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\37. Math.random() _ 6\index.js, code is 2, comment is 8, blank is 3.
+3. Build a Blackjack game\38. Flooring the number with Math.floor()\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\38. Flooring the number with Math.floor()\index.js, code is 2, comment is 8, blank is 4.
+3. Build a Blackjack game\39. Using Math.random() and Math.floor() to create a dice\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\39. Using Math.random() and Math.floor() to create a dice\index.js, code is 2, comment is 8, blank is 2.
+3. Build a Blackjack game\40. Completing our dice function\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\40. Completing our dice function\index.js, code is 2, comment is 1, blank is 2.
+3. Build a Blackjack game\41. Make getRandomCard() work\images\table.png, it is a binary file.
+3. Build a Blackjack game\41. Make getRandomCard() work\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\41. Make getRandomCard() work\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\41. Make getRandomCard() work\index.js, code is 39, comment is 1, blank is 6.
+3. Build a Blackjack game\42. Complete getRandomNumber function\images\table.png, it is a binary file.
+3. Build a Blackjack game\42. Complete getRandomNumber function\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\42. Complete getRandomNumber function\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\42. Complete getRandomNumber function\index.js, code is 38, comment is 2, blank is 5.
+3. Build a Blackjack game\43. Assign values in the startGame function\images\table.png, it is a binary file.
+3. Build a Blackjack game\43. Assign values in the startGame function\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\43. Assign values in the startGame function\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\43. Assign values in the startGame function\index.js, code is 50, comment is 0, blank is 6.
+3. Build a Blackjack game\44. Our new card feature is broken\images\table.png, it is a binary file.
+3. Build a Blackjack game\44. Our new card feature is broken\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\44. Our new card feature is broken\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\44. Our new card feature is broken\index.js, code is 49, comment is 0, blank is 6.
+3. Build a Blackjack game\45. The logical AND operator\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\45. The logical AND operator\index.js, code is 10, comment is 0, blank is 4.
+3. Build a Blackjack game\46. Write your first logical operator\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\46. Write your first logical operator\index.js, code is 5, comment is 2, blank is 4.
+3. Build a Blackjack game\47. The logical OR operator\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\47. The logical OR operator\index.js, code is 3, comment is 2, blank is 1.
+3. Build a Blackjack game\48. Only trigger newCard() if you're allowed to\images\table.png, it is a binary file.
+3. Build a Blackjack game\48. Only trigger newCard() if you're allowed to\index.css, code is 26, comment is 2, blank is 3.
+3. Build a Blackjack game\48. Only trigger newCard() if you're allowed to\index.html, code is 14, comment is 0, blank is 0.
+3. Build a Blackjack game\48. Only trigger newCard() if you're allowed to\index.js, code is 49, comment is 1, blank is 6.
+3. Build a Blackjack game\49. Object sneak peek\images\table.png, it is a binary file.
+3. Build a Blackjack game\49. Object sneak peek\index.css, code is 26, comment is 0, blank is 3.
+3. Build a Blackjack game\49. Object sneak peek\index.html, code is 15, comment is 0, blank is 0.
+3. Build a Blackjack game\49. Object sneak peek\index.js, code is 57, comment is 0, blank is 9.
+3. Build a Blackjack game\50. Intro to objects\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\50. Intro to objects\index.js, code is 10, comment is 2, blank is 5.
+3. Build a Blackjack game\51. Create your first object\index.html, code is 7, comment is 0, blank is 0.
+3. Build a Blackjack game\51. Create your first object\index.js, code is 0, comment is 3, blank is 2.
+3. Build a Blackjack game\52. Use an object to store player data\images\table.png, it is a binary file.
+3. Build a Blackjack game\52. Use an object to store player data\index.css, code is 26, comment is 0, blank is 3.
+3. Build a Blackjack game\52. Use an object to store player data\index.html, code is 14, comment is 1, blank is 0.
+3. Build a Blackjack game\52. Use an object to store player data\index.js, code is 51, comment is 3, blank is 7.
+3. Build a Blackjack game\53. Methods on object\images\table.png, it is a binary file.
+3. Build a Blackjack game\53. Methods on object\index.css, code is 26, comment is 0, blank is 3.
+3. Build a Blackjack game\53. Methods on object\index.html, code is 15, comment is 0, blank is 0.
+3. Build a Blackjack game\53. Methods on object\index.js, code is 57, comment is 0, blank is 8.
+3. Build a Blackjack game\54. Congrats & recap\images\table.png, it is a binary file.
+3. Build a Blackjack game\54. Congrats & recap\index.css, code is 26, comment is 0, blank is 3.
+3. Build a Blackjack game\54. Congrats & recap\index.html, code is 15, comment is 0, blank is 0.
+3. Build a Blackjack game\54. Congrats & recap\index.js, code is 57, comment is 0, blank is 8.
+4. Practice time - part 2\01. Objects and functions\index.html, code is 7, comment is 0, blank is 0.
+4. Practice time - part 2\01. Objects and functions\index.js, code is 10, comment is 0, blank is 2.
+4. Practice time - part 2\02. if else\index.html, code is 7, comment is 0, blank is 0.
+4. Practice time - part 2\02. if else\index.js, code is 1, comment is 7, blank is 2.
+4. Practice time - part 2\03. Loops and arrays\index.html, code is 7, comment is 0, blank is 0.
+4. Practice time - part 2\03. Loops and arrays\index.js, code is 1, comment is 9, blank is 1.
+4. Practice time - part 2\04. push, pop, unshift, shift challenge\index.html, code is 7, comment is 0, blank is 0.
+4. Practice time - part 2\04. push, pop, unshift, shift challenge\index.js, code is 1, comment is 4, blank is 2.
+4. Practice time - part 2\05. Logical operators\index.html, code is 7, comment is 0, blank is 0.
+4. Practice time - part 2\05. Logical operators\index.js, code is 2, comment is 2, blank is 4.
+4. Practice time - part 2\06. Rock papers scissors\index.html, code is 7, comment is 0, blank is 0.
+4. Practice time - part 2\06. Rock papers scissors\index.js, code is 6, comment is 1, blank is 3.
+4. Practice time - part 2\07. Sorting fruits\index.css, code is 16, comment is 0, blank is 2.
+4. Practice time - part 2\07. Sorting fruits\index.html, code is 10, comment is 0, blank is 0.
+4. Practice time - part 2\07. Sorting fruits\index.js, code is 13, comment is 3, blank is 2.
+5. Build a Chrome Extension\01. Let's build a Chrome Extension!\index.html, code is 8, comment is 0, blank is 0.
+5. Build a Chrome Extension\01. Let's build a Chrome Extension!\index.js, code is 0, comment is 0, blank is 1.
+5. Build a Chrome Extension\02. Add button and input tag\index.html, code is 8, comment is 2, blank is 0.
+5. Build a Chrome Extension\03. Style the button and input tag\index.css, code is 9, comment is 7, blank is 6.
+5. Build a Chrome Extension\03. Style the button and input tag\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\04. Make the input button work with onclick\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\04. Make the input button work with onclick\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\04. Make the input button work with onclick\index.js, code is 0, comment is 1, blank is 0.
+5. Build a Chrome Extension\05. Refactor to addEventListener\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\05. Refactor to addEventListener\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\05. Refactor to addEventListener\index.js, code is 3, comment is 0, blank is 3.
+5. Build a Chrome Extension\06. Write your first addEventListener()\index.css, code is 15, comment is 0, blank is 1.
+5. Build a Chrome Extension\06. Write your first addEventListener()\index.html, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\06. Write your first addEventListener()\index.js, code is 0, comment is 3, blank is 0.
+5. Build a Chrome Extension\07. Your turn to refactor\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\07. Your turn to refactor\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\07. Your turn to refactor\index.js, code is 3, comment is 2, blank is 4.
+5. Build a Chrome Extension\08. Create the myLeads array and inputEl\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\08. Create the myLeads array and inputEl\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\08. Create the myLeads array and inputEl\index.js, code is 4, comment is 3, blank is 4.
+5. Build a Chrome Extension\09. When to use let and const\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\09. When to use let and const\index.js, code is 8, comment is 6, blank is 5.
+5. Build a Chrome Extension\10. Push to the myLeads array\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\10. Push to the myLeads array\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\10. Push to the myLeads array\index.js, code is 6, comment is 1, blank is 4.
+5. Build a Chrome Extension\11. Push the value from the input field\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\11. Push the value from the input field\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\11. Push the value from the input field\index.js, code is 7, comment is 3, blank is 3.
+5. Build a Chrome Extension\12. Use a for loop to log out leads\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\12. Use a for loop to log out leads\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\12. Use a for loop to log out leads\index.js, code is 7, comment is 1, blank is 6.
+5. Build a Chrome Extension\13. Create the unordered list\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\13. Create the unordered list\index.html, code is 10, comment is 1, blank is 0.
+5. Build a Chrome Extension\13. Create the unordered list\index.js, code is 10, comment is 1, blank is 6.
+5. Build a Chrome Extension\14. Render the leads in the unordered list\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\14. Render the leads in the unordered list\index.html, code is 11, comment is 0, blank is 0.
+5. Build a Chrome Extension\14. Render the leads in the unordered list\index.js, code is 11, comment is 1, blank is 5.
+5. Build a Chrome Extension\15. How to render _li_ elements with innerHTML\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\15. How to render _li_ elements with innerHTML\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\15. How to render _li_ elements with innerHTML\index.js, code is 11, comment is 0, blank is 6.
+5. Build a Chrome Extension\16. Write your first innerHTML\index.css, code is 14, comment is 0, blank is 2.
+5. Build a Chrome Extension\16. Write your first innerHTML\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\16. Write your first innerHTML\index.js, code is 0, comment is 1, blank is 2.
+5. Build a Chrome Extension\17.  More innerHTML practice\index.css, code is 19, comment is 0, blank is 3.
+5. Build a Chrome Extension\17.  More innerHTML practice\index.html, code is 10, comment is 0, blank is 0.
+5. Build a Chrome Extension\17.  More innerHTML practice\index.js, code is 2, comment is 2, blank is 3.
+5. Build a Chrome Extension\18. Render the _li_ elements with innerHTML\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\18. Render the _li_ elements with innerHTML\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\18. Render the _li_ elements with innerHTML\index.js, code is 11, comment is 1, blank is 5.
+5. Build a Chrome Extension\19. Use createElement() and append() instead of innerHTML\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\19. Use createElement() and append() instead of innerHTML\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\19. Use createElement() and append() instead of innerHTML\index.js, code is 11, comment is 1, blank is 5.
+5. Build a Chrome Extension\20. Improving the performance of our app\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\20. Improving the performance of our app\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\20. Improving the performance of our app\index.js, code is 11, comment is 4, blank is 5.
+5. Build a Chrome Extension\21. Create the render function\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\21. Create the render function\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\21. Create the render function\index.js, code is 13, comment is 2, blank is 3.
+5. Build a Chrome Extension\22. Clear the input field\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\22. Clear the input field\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\22. Clear the input field\index.js, code is 15, comment is 1, blank is 2.
+5. Build a Chrome Extension\23. Add the _a_ tag\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\23. Add the _a_ tag\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\23. Add the _a_ tag\index.js, code is 16, comment is 2, blank is 2.
+5. Build a Chrome Extension\24. Template strings\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\24. Template strings\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\24. Template strings\index.js, code is 15, comment is 1, blank is 2.
+5. Build a Chrome Extension\25. Write your first template string\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\25. Write your first template string\index.js, code is 3, comment is 2, blank is 3.
+5. Build a Chrome Extension\26. Make the template string even more dynamic\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\26. Make the template string even more dynamic\index.js, code is 3, comment is 3, blank is 3.
+5. Build a Chrome Extension\27. Template strings on multiple lines\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\27. Template strings on multiple lines\index.js, code is 4, comment is 2, blank is 3.
+5. Build a Chrome Extension\28. Refactor the app to use a template string\index.css, code is 19, comment is 0, blank is 2.
+5. Build a Chrome Extension\28. Refactor the app to use a template string\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\28. Refactor the app to use a template string\index.js, code is 16, comment is 1, blank is 2.
+5. Build a Chrome Extension\29. Style the list\index.css, code is 25, comment is 1, blank is 9.
+5. Build a Chrome Extension\29. Style the list\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\29. Style the list\index.js, code is 22, comment is 0, blank is 2.
+5. Build a Chrome Extension\30. Preparing the deployment\icon.png, it is a binary file.
+5. Build a Chrome Extension\30. Preparing the deployment\index.css, code is 30, comment is 0, blank is 5.
+5. Build a Chrome Extension\30. Preparing the deployment\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\30. Preparing the deployment\index.js, code is 22, comment is 0, blank is 2.
+5. Build a Chrome Extension\30. Preparing the deployment\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\31. Deploying the Chrome Extension\icon.png, it is a binary file.
+5. Build a Chrome Extension\31. Deploying the Chrome Extension\index.css, code is 31, comment is 0, blank is 5.
+5. Build a Chrome Extension\31. Deploying the Chrome Extension\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\31. Deploying the Chrome Extension\index.js, code is 22, comment is 1, blank is 2.
+5. Build a Chrome Extension\31. Deploying the Chrome Extension\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\32. What is localStorage_\icon.png, it is a binary file.
+5. Build a Chrome Extension\32. What is localStorage_\index.css, code is 31, comment is 0, blank is 5.
+5. Build a Chrome Extension\32. What is localStorage_\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\32. What is localStorage_\index.js, code is 22, comment is 0, blank is 2.
+5. Build a Chrome Extension\32. What is localStorage_\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\33. Your first localStorage\icon.png, it is a binary file.
+5. Build a Chrome Extension\33. Your first localStorage\index.css, code is 31, comment is 0, blank is 5.
+5. Build a Chrome Extension\33. Your first localStorage\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\33. Your first localStorage\index.js, code is 22, comment is 8, blank is 5.
+5. Build a Chrome Extension\33. Your first localStorage\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\34. Storing arrays in localStorage\icon.png, it is a binary file.
+5. Build a Chrome Extension\34. Storing arrays in localStorage\index.css, code is 31, comment is 0, blank is 5.
+5. Build a Chrome Extension\34. Storing arrays in localStorage\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\34. Storing arrays in localStorage\index.js, code is 22, comment is 0, blank is 5.
+5. Build a Chrome Extension\34. Storing arrays in localStorage\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\35. Save the leads to localStorage\icon.png, it is a binary file.
+5. Build a Chrome Extension\35. Save the leads to localStorage\index.css, code is 31, comment is 0, blank is 5.
+5. Build a Chrome Extension\35. Save the leads to localStorage\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\35. Save the leads to localStorage\index.js, code is 23, comment is 3, blank is 3.
+5. Build a Chrome Extension\35. Save the leads to localStorage\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\36. Get the leads from localStorage\icon.png, it is a binary file.
+5. Build a Chrome Extension\36. Get the leads from localStorage\index.css, code is 31, comment is 0, blank is 5.
+5. Build a Chrome Extension\36. Get the leads from localStorage\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\36. Get the leads from localStorage\index.js, code is 24, comment is 4, blank is 4.
+5. Build a Chrome Extension\36. Get the leads from localStorage\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\37. Truthy and falsy values\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\37. Truthy and falsy values\index.js, code is 6, comment is 15, blank is 7.
+5. Build a Chrome Extension\38. Truthy and falsy values\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\38. Truthy and falsy values\index.js, code is 6, comment is 6, blank is 0.
+5. Build a Chrome Extension\39. Checking localStorage before rendering\icon.png, it is a binary file.
+5. Build a Chrome Extension\39. Checking localStorage before rendering\index.css, code is 31, comment is 0, blank is 5.
+5. Build a Chrome Extension\39. Checking localStorage before rendering\index.html, code is 12, comment is 0, blank is 0.
+5. Build a Chrome Extension\39. Checking localStorage before rendering\index.js, code is 24, comment is 2, blank is 4.
+5. Build a Chrome Extension\39. Checking localStorage before rendering\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\40. Style the delete button\icon.png, it is a binary file.
+5. Build a Chrome Extension\40. Style the delete button\index.css, code is 33, comment is 1, blank is 10.
+5. Build a Chrome Extension\40. Style the delete button\index.html, code is 13, comment is 0, blank is 0.
+5. Build a Chrome Extension\40. Style the delete button\index.js, code is 28, comment is 0, blank is 3.
+5. Build a Chrome Extension\40. Style the delete button\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\41. Make the delete button work\icon.png, it is a binary file.
+5. Build a Chrome Extension\41. Make the delete button work\index.css, code is 35, comment is 1, blank is 9.
+5. Build a Chrome Extension\41. Make the delete button work\index.html, code is 13, comment is 0, blank is 0.
+5. Build a Chrome Extension\41. Make the delete button work\index.js, code is 28, comment is 3, blank is 4.
+5. Build a Chrome Extension\41. Make the delete button work\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\42. How function parameters can improve our code\icon.png, it is a binary file.
+5. Build a Chrome Extension\42. How function parameters can improve our code\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\42. How function parameters can improve our code\index.html, code is 13, comment is 0, blank is 0.
+5. Build a Chrome Extension\42. How function parameters can improve our code\index.js, code is 35, comment is 0, blank is 4.
+5. Build a Chrome Extension\42. How function parameters can improve our code\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\43. Write your first function parameter\index.css, code is 3, comment is 0, blank is 0.
+5. Build a Chrome Extension\43. Write your first function parameter\index.html, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\43. Write your first function parameter\index.js, code is 5, comment is 1, blank is 2.
+5. Build a Chrome Extension\44. Functions with multiple parameters\index.css, code is 3, comment is 0, blank is 0.
+5. Build a Chrome Extension\44. Functions with multiple parameters\index.html, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\44. Functions with multiple parameters\index.js, code is 5, comment is 1, blank is 2.
+5. Build a Chrome Extension\45. Numbers as function parameters\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\45. Numbers as function parameters\index.js, code is 2, comment is 3, blank is 3.
+5. Build a Chrome Extension\46. Arguments vs Parameters\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\46. Arguments vs Parameters\index.js, code is 9, comment is 6, blank is 6.
+5. Build a Chrome Extension\47. Arrays as parameters\index.html, code is 7, comment is 0, blank is 0.
+5. Build a Chrome Extension\47. Arrays as parameters\index.js, code is 0, comment is 2, blank is 3.
+5. Build a Chrome Extension\48. Refactor renderLeads() to use a parameter\icon.png, it is a binary file.
+5. Build a Chrome Extension\48. Refactor renderLeads() to use a parameter\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\48. Refactor renderLeads() to use a parameter\index.html, code is 13, comment is 0, blank is 0.
+5. Build a Chrome Extension\48. Refactor renderLeads() to use a parameter\index.js, code is 34, comment is 3, blank is 5.
+5. Build a Chrome Extension\48. Refactor renderLeads() to use a parameter\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\49. Create the tabBtn\icon.png, it is a binary file.
+5. Build a Chrome Extension\49. Create the tabBtn\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\49. Create the tabBtn\index.html, code is 13, comment is 0, blank is 0.
+5. Build a Chrome Extension\49. Create the tabBtn\index.js, code is 34, comment is 2, blank is 6.
+5. Build a Chrome Extension\49. Create the tabBtn\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\50. Save the tab url\icon.png, it is a binary file.
+5. Build a Chrome Extension\50. Save the tab url\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\50. Save the tab url\index.html, code is 14, comment is 0, blank is 0.
+5. Build a Chrome Extension\50. Save the tab url\index.js, code is 41, comment is 1, blank is 6.
+5. Build a Chrome Extension\50. Save the tab url\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\51. How to get the current tab_\icon.png, it is a binary file.
+5. Build a Chrome Extension\51. How to get the current tab_\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\51. How to get the current tab_\index.html, code is 14, comment is 0, blank is 0.
+5. Build a Chrome Extension\51. How to get the current tab_\index.js, code is 43, comment is 1, blank is 8.
+5. Build a Chrome Extension\51. How to get the current tab_\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\52. Use the Chrome API to get the tab\icon.png, it is a binary file.
+5. Build a Chrome Extension\52. Use the Chrome API to get the tab\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\52. Use the Chrome API to get the tab\index.html, code is 14, comment is 0, blank is 0.
+5. Build a Chrome Extension\52. Use the Chrome API to get the tab\index.js, code is 48, comment is 3, blank is 9.
+5. Build a Chrome Extension\52. Use the Chrome API to get the tab\manifest.json, code is 9, comment is 0, blank is 0.
+5. Build a Chrome Extension\53. Deploy the final version\icon.png, it is a binary file.
+5. Build a Chrome Extension\53. Deploy the final version\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\53. Deploy the final version\index.html, code is 14, comment is 0, blank is 0.
+5. Build a Chrome Extension\53. Deploy the final version\index.js, code is 42, comment is 0, blank is 5.
+5. Build a Chrome Extension\53. Deploy the final version\manifest.json, code is 11, comment is 0, blank is 1.
+5. Build a Chrome Extension\54. Congrats & recap\icon.png, it is a binary file.
+5. Build a Chrome Extension\54. Congrats & recap\index.css, code is 35, comment is 0, blank is 8.
+5. Build a Chrome Extension\54. Congrats & recap\index.html, code is 14, comment is 0, blank is 0.
+5. Build a Chrome Extension\54. Congrats & recap\index.js, code is 42, comment is 0, blank is 5.
+5. Build a Chrome Extension\54. Congrats & recap\manifest.json, code is 11, comment is 0, blank is 1.
+6. Practice time - part 3\01. let & const\index.html, code is 7, comment is 0, blank is 0.
+6. Practice time - part 3\01. let & const\index.js, code is 12, comment is 5, blank is 3.
+6. Practice time - part 3\02. Log out items in an array\index.html, code is 7, comment is 0, blank is 0.
+6. Practice time - part 3\02. Log out items in an array\index.js, code is 1, comment is 3, blank is 1.
+6. Practice time - part 3\03. save to localStorage\index.css, code is 6, comment is 0, blank is 0.
+6. Practice time - part 3\03. save to localStorage\index.html, code is 9, comment is 0, blank is 0.
+6. Practice time - part 3\03. save to localStorage\index.js, code is 0, comment is 3, blank is 0.
+6. Practice time - part 3\04. addEventListener and object in array\index.css, code is 13, comment is 0, blank is 1.
+6. Practice time - part 3\04. addEventListener and object in array\index.html, code is 6, comment is 0, blank is 0.
+6. Practice time - part 3\04. addEventListener and object in array\index.js, code is 10, comment is 3, blank is 1.
+6. Practice time - part 3\05. Generate sentence\index.html, code is 7, comment is 0, blank is 0.
+6. Practice time - part 3\05. Generate sentence\index.js, code is 2, comment is 7, blank is 4.
+6. Practice time - part 3\06. Render images\images\hip1.jpg, it is a binary file.
+6. Practice time - part 3\06. Render images\images\hip2.jpg, it is a binary file.
+6. Practice time - part 3\06. Render images\images\hip3.jpg, it is a binary file.
+6. Practice time - part 3\06. Render images\index.css, code is 18, comment is 0, blank is 4.
+6. Practice time - part 3\06. Render images\index.html, code is 14, comment is 0, blank is 0.
+6. Practice time - part 3\06. Render images\index.js, code is 4, comment is 3, blank is 2.
+README.md, code is 3, comment is 1, blank is 2.
+===============================================================================

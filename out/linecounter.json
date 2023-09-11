@@ -1,0 +1,2998 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\user\\Documents\\ReactNode\\everything-javascript",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2023-09-10 19:57:00",
+            "filesum": 481,
+            "codesum": 6029,
+            "commentsum": 470,
+            "blanksum": 911,
+            "statistics": {
+                ".css": {
+                    "code": 2276,
+                    "comment": 45,
+                    "blank": 372
+                },
+                ".html": {
+                    "code": 1561,
+                    "comment": 14,
+                    "blank": 2
+                },
+                ".json": {
+                    "code": 166,
+                    "comment": 0,
+                    "blank": 2
+                },
+                ".md": {
+                    "code": 3,
+                    "comment": 1,
+                    "blank": 2
+                },
+                ".js": {
+                    "code": 2022,
+                    "comment": 410,
+                    "blank": 533
+                },
+                "": {
+                    "code": 1,
+                    "comment": 0,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 4,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\01. Welcome to the course\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\01. Welcome to the course\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "1. Build a Passenger Counter App\\01. Welcome to the course\\index.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\02. Let's build a passenger counter app\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\02. Let's build a passenger counter app\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\02. Let's build a passenger counter app\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\02. Let's build a passenger counter app\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\03. Setting up our JavaScript file\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\03. Setting up our JavaScript file\\index.html"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\03. Setting up our JavaScript file\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\04. Write your first JavaScript variable\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\04. Write your first JavaScript variable\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 2,
+                    "comment": 3,
+                    "filename": "1. Build a Passenger Counter App\\04. Write your first JavaScript variable\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\04. Write your first JavaScript variable\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\05. Basic mathematical operations\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\05. Basic mathematical operations\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 0,
+                    "comment": 9,
+                    "filename": "1. Build a Passenger Counter App\\05. Basic mathematical operations\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\05. Basic mathematical operations\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\06. Reassigning and incrementing\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\06. Reassigning and incrementing\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 2,
+                    "comment": 3,
+                    "filename": "1. Build a Passenger Counter App\\06. Reassigning and incrementing\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\06. Reassigning and incrementing\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\07. Adding a button\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "1. Build a Passenger Counter App\\07. Adding a button\\index.html"
+                },
+                {
+                    "blank": 10,
+                    "code": 8,
+                    "comment": 7,
+                    "filename": "1. Build a Passenger Counter App\\07. Adding a button\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\07. Adding a button\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\08. The onclick event listener\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\08. The onclick event listener\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 0,
+                    "comment": 8,
+                    "filename": "1. Build a Passenger Counter App\\08. The onclick event listener\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\08. The onclick event listener\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\09. Using functions to write less code\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 5,
+                    "filename": "1. Build a Passenger Counter App\\09. Using functions to write less code\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\10. Write your first function\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 0,
+                    "comment": 2,
+                    "filename": "1. Build a Passenger Counter App\\10. Write your first function\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\11. Write a function that logs the sum\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "1. Build a Passenger Counter App\\11. Write a function that logs the sum\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\12. Write a function that increments\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 2,
+                    "comment": 2,
+                    "filename": "1. Build a Passenger Counter App\\12. Write a function that increments\\index.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\13. Increment on clicks\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\13. Increment on clicks\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 0,
+                    "comment": 8,
+                    "filename": "1. Build a Passenger Counter App\\13. Increment on clicks\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\13. Increment on clicks\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\14. Display the count\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\14. Display the count\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 2,
+                    "filename": "1. Build a Passenger Counter App\\14. Display the count\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\14. Display the count\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\15. The Document Object Model\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\15. The Document Object Model\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\15. The Document Object Model\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\15. The Document Object Model\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\16. Display the count with innerText\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\16. Display the count with innerText\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 2,
+                    "filename": "1. Build a Passenger Counter App\\16. Display the count with innerText\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\16. Display the count with innerText\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\17. Create the save button\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 2,
+                    "filename": "1. Build a Passenger Counter App\\17. Create the save button\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 6,
+                    "comment": 1,
+                    "filename": "1. Build a Passenger Counter App\\17. Create the save button\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\17. Create the save button\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\18. What is a string_\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\18. What is a string_\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\18. What is a string_\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\18. What is a string_\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\19. Write your first string variable\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 1,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\19. Write your first string variable\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\20. Log a greeting to the console\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 0,
+                    "comment": 4,
+                    "filename": "1. Build a Passenger Counter App\\20. Log a greeting to the console\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\21. Strings vs. Numbers\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 4,
+                    "filename": "1. Build a Passenger Counter App\\21. Strings vs. Numbers\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\22. Render a welcome message\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 5,
+                    "comment": 4,
+                    "filename": "1. Build a Passenger Counter App\\22. Render a welcome message\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\23. Improve the message with string concatenation\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 4,
+                    "comment": 3,
+                    "filename": "1. Build a Passenger Counter App\\23. Improve the message with string concatenation\\index.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\24. Use plus equal for count\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\24. Use plus equal for count\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 9,
+                    "comment": 1,
+                    "filename": "1. Build a Passenger Counter App\\24. Use plus equal for count\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\24. Use plus equal for count\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\25. Create the save feature\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\25. Create the save feature\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 4,
+                    "filename": "1. Build a Passenger Counter App\\25. Create the save feature\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\25. Create the save feature\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\26. Debugging online\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\26. Debugging online\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 11,
+                    "comment": 2,
+                    "filename": "1. Build a Passenger Counter App\\26. Debugging online\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\26. Debugging online\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\27. Set the count to 0\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\27. Set the count to 0\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\27. Set the count to 0\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\27. Set the count to 0\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 6,
+                    "code": 32,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\28. Congrats & recap\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\28. Congrats & recap\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "1. Build a Passenger Counter App\\28. Congrats & recap\\index.js"
+                },
+                {
+                    "filename": "1. Build a Passenger Counter App\\28. Congrats & recap\\station.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\01. Variables practice\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 0,
+                    "comment": 3,
+                    "filename": "2. Practice time - part 1\\01. Variables practice\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\02. Concatenate two strings in a function\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "2. Practice time - part 1\\02. Concatenate two strings in a function\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\03. Incrementing and decrementing\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 13,
+                    "comment": 3,
+                    "filename": "2. Practice time - part 1\\03. Incrementing and decrementing\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\04. Strings and numbers\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 7,
+                    "filename": "2. Practice time - part 1\\04. Strings and numbers\\index.js"
+                },
+                {
+                    "filename": "2. Practice time - part 1\\05. Rendering an error message\\images\\shoe.jpeg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 2,
+                    "code": 27,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\05. Rendering an error message\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\05. Rendering an error message\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 3,
+                    "filename": "2. Practice time - part 1\\05. Rendering an error message\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\06. Calculator challenge\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 0,
+                    "filename": "2. Practice time - part 1\\06. Calculator challenge\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 4,
+                    "comment": 6,
+                    "filename": "2. Practice time - part 1\\06. Calculator challenge\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\01. Let's build a Blackjack game!\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\02. Add the firstCard, secondCard, and sum\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 0,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\02. Add the firstCard, secondCard, and sum\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\03. If...else conditionals\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\03. If...else conditionals\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\04. Your first if...else statement\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "3. Build a Blackjack game\\04. Your first if...else statement\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\05. if_else...if_else statement\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "3. Build a Blackjack game\\05. if_else...if_else statement\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\06. The if...else statement for our game\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 5,
+                    "filename": "3. Build a Blackjack game\\06. The if...else statement for our game\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\07. Add the hasBlackJack variable\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\07. Add the hasBlackJack variable\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\08. Add the isAlive variable\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 12,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\08. Add the isAlive variable\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\09. Let's practice boolean conditions\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 22,
+                    "filename": "3. Build a Blackjack game\\09. Let's practice boolean conditions\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\10. Add the message variable\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\10. Add the message variable\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\11. Link to stylesheet\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\11. Link to stylesheet\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\11. Link to stylesheet\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\12. Add basic styling\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 7,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\12. Add basic styling\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\12. Add basic styling\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\12. Add basic styling\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\13. Make the start button work\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 6,
+                    "filename": "3. Build a Blackjack game\\13. Make the start button work\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\13. Make the start button work\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 18,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\13. Make the start button work\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\14. Display the message\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\14. Display the message\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\14. Display the message\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\14. Display the message\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\15. Display the sum\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\15. Display the sum\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\15. Display the sum\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 19,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\15. Display the sum\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\16. Display the cards\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\16. Display the cards\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 17,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\16. Display the cards\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 23,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\16. Display the cards\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\17. New card button\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 24,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\17. New card button\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\17. New card button\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 23,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\17. New card button\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\18. Add to the sum when newCard is clicked\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\18. Add to the sum when newCard is clicked\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\18. Add to the sum when newCard is clicked\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 26,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\18. Add to the sum when newCard is clicked\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\19. Rename the startGame function\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\19. Rename the startGame function\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\19. Rename the startGame function\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\19. Rename the startGame function\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\20. Solving our cards problem with an array\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\20. Solving our cards problem with an array\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\20. Solving our cards problem with an array\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 31,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\20. Solving our cards problem with an array\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\21. Intro to arrays\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 4,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\21. Intro to arrays\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\22. Array indexes\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 5,
+                    "comment": 5,
+                    "filename": "3. Build a Blackjack game\\22. Array indexes\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\23. Arrays with multiple data types\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 0,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\23. Arrays with multiple data types\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\24. Adding and removing items from arrays\\index.html"
+                },
+                {
+                    "blank": 7,
+                    "code": 7,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\24. Adding and removing items from arrays\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\25. Creating the cards array\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\25. Creating the cards array\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\25. Creating the cards array\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 31,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\25. Creating the cards array\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\26. Push a new card to the array\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\26. Push a new card to the array\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\26. Push a new card to the array\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 32,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\26. Push a new card to the array\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\27. Counting in JavaScript\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 3,
+                    "comment": 6,
+                    "filename": "3. Build a Blackjack game\\27. Counting in JavaScript\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\28. Write your first loop\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 0,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\28. Write your first loop\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\29. For loops and arrays\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 6,
+                    "comment": 5,
+                    "filename": "3. Build a Blackjack game\\29. For loops and arrays\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\30. Write you first array-based for loop\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 1,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\30. Write you first array-based for loop\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\31. For loops, arrays, and DOM\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\31. For loops, arrays, and DOM\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\32. Use a loop to render cards\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\32. Use a loop to render cards\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\32. Use a loop to render cards\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 37,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\32. Use a loop to render cards\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\33. How can we avoid to hard-code card values_\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\33. How can we avoid to hard-code card values_\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\33. How can we avoid to hard-code card values_\\index.html"
+                },
+                {
+                    "blank": 7,
+                    "code": 37,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\33. How can we avoid to hard-code card values_\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\34. Returning values in functions\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 11,
+                    "comment": 6,
+                    "filename": "3. Build a Blackjack game\\34. Returning values in functions\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\35. Use a function to set the card values\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\35. Use a function to set the card values\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\35. Use a function to set the card values\\index.html"
+                },
+                {
+                    "blank": 7,
+                    "code": 40,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\35. Use a function to set the card values\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\36. Generating random numbers with Math.random()\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 2,
+                    "comment": 7,
+                    "filename": "3. Build a Blackjack game\\36. Generating random numbers with Math.random()\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\37. Math.random() _ 6\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 2,
+                    "comment": 8,
+                    "filename": "3. Build a Blackjack game\\37. Math.random() _ 6\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\38. Flooring the number with Math.floor()\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 2,
+                    "comment": 8,
+                    "filename": "3. Build a Blackjack game\\38. Flooring the number with Math.floor()\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\39. Using Math.random() and Math.floor() to create a dice\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 8,
+                    "filename": "3. Build a Blackjack game\\39. Using Math.random() and Math.floor() to create a dice\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\40. Completing our dice function\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 2,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\40. Completing our dice function\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\41. Make getRandomCard() work\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\41. Make getRandomCard() work\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\41. Make getRandomCard() work\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 39,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\41. Make getRandomCard() work\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\42. Complete getRandomNumber function\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\42. Complete getRandomNumber function\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\42. Complete getRandomNumber function\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 38,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\42. Complete getRandomNumber function\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\43. Assign values in the startGame function\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\43. Assign values in the startGame function\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\43. Assign values in the startGame function\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 50,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\43. Assign values in the startGame function\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\44. Our new card feature is broken\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\44. Our new card feature is broken\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\44. Our new card feature is broken\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 49,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\44. Our new card feature is broken\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\45. The logical AND operator\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\45. The logical AND operator\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\46. Write your first logical operator\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 5,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\46. Write your first logical operator\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\47. The logical OR operator\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 3,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\47. The logical OR operator\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\48. Only trigger newCard() if you're allowed to\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\48. Only trigger newCard() if you're allowed to\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\48. Only trigger newCard() if you're allowed to\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 49,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\48. Only trigger newCard() if you're allowed to\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\49. Object sneak peek\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\49. Object sneak peek\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\49. Object sneak peek\\index.html"
+                },
+                {
+                    "blank": 9,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\49. Object sneak peek\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\50. Intro to objects\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 10,
+                    "comment": 2,
+                    "filename": "3. Build a Blackjack game\\50. Intro to objects\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\51. Create your first object\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 0,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\51. Create your first object\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\52. Use an object to store player data\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\52. Use an object to store player data\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 1,
+                    "filename": "3. Build a Blackjack game\\52. Use an object to store player data\\index.html"
+                },
+                {
+                    "blank": 7,
+                    "code": 51,
+                    "comment": 3,
+                    "filename": "3. Build a Blackjack game\\52. Use an object to store player data\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\53. Methods on object\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\53. Methods on object\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\53. Methods on object\\index.html"
+                },
+                {
+                    "blank": 8,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\53. Methods on object\\index.js"
+                },
+                {
+                    "filename": "3. Build a Blackjack game\\54. Congrats & recap\\images\\table.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 3,
+                    "code": 26,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\54. Congrats & recap\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\54. Congrats & recap\\index.html"
+                },
+                {
+                    "blank": 8,
+                    "code": 57,
+                    "comment": 0,
+                    "filename": "3. Build a Blackjack game\\54. Congrats & recap\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\01. Objects and functions\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\01. Objects and functions\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\02. if else\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 7,
+                    "filename": "4. Practice time - part 2\\02. if else\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\03. Loops and arrays\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 9,
+                    "filename": "4. Practice time - part 2\\03. Loops and arrays\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\04. push, pop, unshift, shift challenge\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 1,
+                    "comment": 4,
+                    "filename": "4. Practice time - part 2\\04. push, pop, unshift, shift challenge\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\05. Logical operators\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 2,
+                    "comment": 2,
+                    "filename": "4. Practice time - part 2\\05. Logical operators\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\06. Rock papers scissors\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 6,
+                    "comment": 1,
+                    "filename": "4. Practice time - part 2\\06. Rock papers scissors\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\07. Sorting fruits\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "4. Practice time - part 2\\07. Sorting fruits\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 13,
+                    "comment": 3,
+                    "filename": "4. Practice time - part 2\\07. Sorting fruits\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\01. Let's build a Chrome Extension!\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 0,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\01. Let's build a Chrome Extension!\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 8,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\02. Add button and input tag\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 9,
+                    "comment": 7,
+                    "filename": "5. Build a Chrome Extension\\03. Style the button and input tag\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\03. Style the button and input tag\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\04. Make the input button work with onclick\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\04. Make the input button work with onclick\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\04. Make the input button work with onclick\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\05. Refactor to addEventListener\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\05. Refactor to addEventListener\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\05. Refactor to addEventListener\\index.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\06. Write your first addEventListener()\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\06. Write your first addEventListener()\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\06. Write your first addEventListener()\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\07. Your turn to refactor\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\07. Your turn to refactor\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 3,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\07. Your turn to refactor\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\08. Create the myLeads array and inputEl\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\08. Create the myLeads array and inputEl\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 4,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\08. Create the myLeads array and inputEl\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\09. When to use let and const\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 8,
+                    "comment": 6,
+                    "filename": "5. Build a Chrome Extension\\09. When to use let and const\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\10. Push to the myLeads array\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\10. Push to the myLeads array\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 6,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\10. Push to the myLeads array\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\11. Push the value from the input field\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\11. Push the value from the input field\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 7,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\11. Push the value from the input field\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\12. Use a for loop to log out leads\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\12. Use a for loop to log out leads\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 7,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\12. Use a for loop to log out leads\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\13. Create the unordered list\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\13. Create the unordered list\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 10,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\13. Create the unordered list\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\14. Render the leads in the unordered list\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\14. Render the leads in the unordered list\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\14. Render the leads in the unordered list\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\15. How to render _li_ elements with innerHTML\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\15. How to render _li_ elements with innerHTML\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\15. How to render _li_ elements with innerHTML\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\16. Write your first innerHTML\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\16. Write your first innerHTML\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 0,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\16. Write your first innerHTML\\index.js"
+                },
+                {
+                    "blank": 3,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\17.  More innerHTML practice\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 10,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\17.  More innerHTML practice\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 2,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\17.  More innerHTML practice\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\18. Render the _li_ elements with innerHTML\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\18. Render the _li_ elements with innerHTML\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\18. Render the _li_ elements with innerHTML\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\19. Use createElement() and append() instead of innerHTML\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\19. Use createElement() and append() instead of innerHTML\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 11,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\19. Use createElement() and append() instead of innerHTML\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\20. Improving the performance of our app\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\20. Improving the performance of our app\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 11,
+                    "comment": 4,
+                    "filename": "5. Build a Chrome Extension\\20. Improving the performance of our app\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\21. Create the render function\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\21. Create the render function\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 13,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\21. Create the render function\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\22. Clear the input field\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\22. Clear the input field\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\22. Clear the input field\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\23. Add the _a_ tag\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\23. Add the _a_ tag\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\23. Add the _a_ tag\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\24. Template strings\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\24. Template strings\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 15,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\24. Template strings\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\25. Write your first template string\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 3,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\25. Write your first template string\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\26. Make the template string even more dynamic\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 3,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\26. Make the template string even more dynamic\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\27. Template strings on multiple lines\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 4,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\27. Template strings on multiple lines\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 19,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\28. Refactor the app to use a template string\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\28. Refactor the app to use a template string\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 16,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\28. Refactor the app to use a template string\\index.js"
+                },
+                {
+                    "blank": 9,
+                    "code": 25,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\29. Style the list\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\29. Style the list\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\29. Style the list\\index.js"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\30. Preparing the deployment\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 30,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\30. Preparing the deployment\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\30. Preparing the deployment\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\30. Preparing the deployment\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\30. Preparing the deployment\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\31. Deploying the Chrome Extension\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\31. Deploying the Chrome Extension\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\31. Deploying the Chrome Extension\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\31. Deploying the Chrome Extension\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\31. Deploying the Chrome Extension\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\32. What is localStorage_\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\32. What is localStorage_\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\32. What is localStorage_\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\32. What is localStorage_\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\32. What is localStorage_\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\33. Your first localStorage\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\33. Your first localStorage\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\33. Your first localStorage\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 22,
+                    "comment": 8,
+                    "filename": "5. Build a Chrome Extension\\33. Your first localStorage\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\33. Your first localStorage\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\34. Storing arrays in localStorage\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\34. Storing arrays in localStorage\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\34. Storing arrays in localStorage\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 22,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\34. Storing arrays in localStorage\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\34. Storing arrays in localStorage\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\35. Save the leads to localStorage\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\35. Save the leads to localStorage\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\35. Save the leads to localStorage\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 23,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\35. Save the leads to localStorage\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\35. Save the leads to localStorage\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\36. Get the leads from localStorage\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\36. Get the leads from localStorage\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\36. Get the leads from localStorage\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 4,
+                    "filename": "5. Build a Chrome Extension\\36. Get the leads from localStorage\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\36. Get the leads from localStorage\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\37. Truthy and falsy values\\index.html"
+                },
+                {
+                    "blank": 7,
+                    "code": 6,
+                    "comment": 15,
+                    "filename": "5. Build a Chrome Extension\\37. Truthy and falsy values\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\38. Truthy and falsy values\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 6,
+                    "filename": "5. Build a Chrome Extension\\38. Truthy and falsy values\\index.js"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\39. Checking localStorage before rendering\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 5,
+                    "code": 31,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\39. Checking localStorage before rendering\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 12,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\39. Checking localStorage before rendering\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 24,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\39. Checking localStorage before rendering\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\39. Checking localStorage before rendering\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\40. Style the delete button\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 10,
+                    "code": 33,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\40. Style the delete button\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\40. Style the delete button\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 28,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\40. Style the delete button\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\40. Style the delete button\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\41. Make the delete button work\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 9,
+                    "code": 35,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\41. Make the delete button work\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\41. Make the delete button work\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 28,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\41. Make the delete button work\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\41. Make the delete button work\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\42. How function parameters can improve our code\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\42. How function parameters can improve our code\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\42. How function parameters can improve our code\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\42. How function parameters can improve our code\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\42. How function parameters can improve our code\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\43. Write your first function parameter\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\43. Write your first function parameter\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\43. Write your first function parameter\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\44. Functions with multiple parameters\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\44. Functions with multiple parameters\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 5,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\44. Functions with multiple parameters\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\45. Numbers as function parameters\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 2,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\45. Numbers as function parameters\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\46. Arguments vs Parameters\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 9,
+                    "comment": 6,
+                    "filename": "5. Build a Chrome Extension\\46. Arguments vs Parameters\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\47. Arrays as parameters\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 0,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\47. Arrays as parameters\\index.js"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\48. Refactor renderLeads() to use a parameter\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\48. Refactor renderLeads() to use a parameter\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\48. Refactor renderLeads() to use a parameter\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 34,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\48. Refactor renderLeads() to use a parameter\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\48. Refactor renderLeads() to use a parameter\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\49. Create the tabBtn\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\49. Create the tabBtn\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\49. Create the tabBtn\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 34,
+                    "comment": 2,
+                    "filename": "5. Build a Chrome Extension\\49. Create the tabBtn\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\49. Create the tabBtn\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\50. Save the tab url\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\50. Save the tab url\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\50. Save the tab url\\index.html"
+                },
+                {
+                    "blank": 6,
+                    "code": 41,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\50. Save the tab url\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\50. Save the tab url\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\51. How to get the current tab_\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\51. How to get the current tab_\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\51. How to get the current tab_\\index.html"
+                },
+                {
+                    "blank": 8,
+                    "code": 43,
+                    "comment": 1,
+                    "filename": "5. Build a Chrome Extension\\51. How to get the current tab_\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\51. How to get the current tab_\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\52. Use the Chrome API to get the tab\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\52. Use the Chrome API to get the tab\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\52. Use the Chrome API to get the tab\\index.html"
+                },
+                {
+                    "blank": 9,
+                    "code": 48,
+                    "comment": 3,
+                    "filename": "5. Build a Chrome Extension\\52. Use the Chrome API to get the tab\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\52. Use the Chrome API to get the tab\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\53. Deploy the final version\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\53. Deploy the final version\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\53. Deploy the final version\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\53. Deploy the final version\\index.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\53. Deploy the final version\\manifest.json"
+                },
+                {
+                    "filename": "5. Build a Chrome Extension\\54. Congrats & recap\\icon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 8,
+                    "code": 35,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\54. Congrats & recap\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\54. Congrats & recap\\index.html"
+                },
+                {
+                    "blank": 5,
+                    "code": 42,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\54. Congrats & recap\\index.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "5. Build a Chrome Extension\\54. Congrats & recap\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\01. let & const\\index.html"
+                },
+                {
+                    "blank": 3,
+                    "code": 12,
+                    "comment": 5,
+                    "filename": "6. Practice time - part 3\\01. let & const\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\02. Log out items in an array\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 1,
+                    "comment": 3,
+                    "filename": "6. Practice time - part 3\\02. Log out items in an array\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\03. save to localStorage\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\03. save to localStorage\\index.html"
+                },
+                {
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 3,
+                    "filename": "6. Practice time - part 3\\03. save to localStorage\\index.js"
+                },
+                {
+                    "blank": 1,
+                    "code": 13,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\04. addEventListener and object in array\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 6,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\04. addEventListener and object in array\\index.html"
+                },
+                {
+                    "blank": 1,
+                    "code": 10,
+                    "comment": 3,
+                    "filename": "6. Practice time - part 3\\04. addEventListener and object in array\\index.js"
+                },
+                {
+                    "blank": 0,
+                    "code": 7,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\05. Generate sentence\\index.html"
+                },
+                {
+                    "blank": 4,
+                    "code": 2,
+                    "comment": 7,
+                    "filename": "6. Practice time - part 3\\05. Generate sentence\\index.js"
+                },
+                {
+                    "filename": "6. Practice time - part 3\\06. Render images\\images\\hip1.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "6. Practice time - part 3\\06. Render images\\images\\hip2.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "6. Practice time - part 3\\06. Render images\\images\\hip3.jpg",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 4,
+                    "code": 18,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\06. Render images\\index.css"
+                },
+                {
+                    "blank": 0,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "6. Practice time - part 3\\06. Render images\\index.html"
+                },
+                {
+                    "blank": 2,
+                    "code": 4,
+                    "comment": 3,
+                    "filename": "6. Practice time - part 3\\06. Render images\\index.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "README.md"
+                }
+            ]
+        }
+    ]
+}
