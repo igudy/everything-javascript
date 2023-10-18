@@ -3,9 +3,11 @@
 // inputEl -> should be assigned to the text input field
 
 let myLeads = [];
-let inputEl = document.getElementById("input-el");
 
-let inputBtn = document.getElementById("input-btn");
+// const cannot be reassigned
+const inputEl = document.getElementById("input-el");
+
+const inputBtn = document.getElementById("input-btn");
 
 inputBtn.addEventListener("click", function () {
   console.log("Button clicked!");

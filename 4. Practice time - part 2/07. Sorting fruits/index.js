@@ -7,7 +7,8 @@ let orangeShelf = document.getElementById("orange-shelf");
 // a conditional statement, and the textContent property.
 
 function sortFruit() {
-  for (i = 0; (i = fruit.length); i++) {
+  for (let i = 0; i < fruit.length; i++) {
+    // get the current fruit
     if (fruit[i] === "🍎") {
       appleShelf.textContent += "🍎";
     } else if (fruit[i] === "🍊") {
@@ -15,4 +16,5 @@ function sortFruit() {
     }
   }
 }
+
 sortFruit();
