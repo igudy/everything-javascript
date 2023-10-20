@@ -15,8 +15,6 @@
 //   "IG Innovations",
 // ];
 
-// localStorage.setItem("key", JSON.stringify(myNames));
-
 let getStorage = JSON.parse(localStorage.getItem("key"));
 
 console.log(getStorage[0]);
