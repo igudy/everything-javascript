@@ -8,6 +8,28 @@
 // "The 2 best fruits are Apples, Bananas"
 
 // Use both a for loop and a template string to solve the challenge
+// function generateSentence(desc, arr) {
+//   console.log(`The ${arr.length} ${desc} are ${arr}`);
+// }
+
+// generateSentence("largest country", ["china", "india", "usa"]);
+
 function generateSentence(desc, arr) {
-    
+  let baseString = `The ${arr.length} ${desc} are `;
+  console.log(`The arr.length ${arr.length}`);
+  const lastIndex = arr.length - 1;
+  console.log(`The last index is ${lastIndex}`);
+
+  for (let i = 0; i < arr.length; i++) {
+    console.log(`The value of i is ${i}`);
+    if (i === lastIndex) {
+      baseString += arr[i];
+    } else {
+      baseString += arr[i] + ",";
+    }
+  }
+  return baseString;
 }
+
+let sentence = generateSentence("largest country", ["china", "india", "usa"]);
+console.log(sentence);
